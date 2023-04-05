@@ -1,6 +1,5 @@
 # Datamodels Homework 0: DataModel Ontology
 * altibase: altibase.md
-* cloudera: clouder.md
 * filemaker: filemaker.md
 * informix: informix.md
 * mariaDB: mariaDB.md
