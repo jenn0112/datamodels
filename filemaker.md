@@ -1,3 +1,3 @@
-* name:
-* website: 
-* 
+* name: Filemaker, Claris FileMaker
+* website: (https://www.claris.com/)
+* Claris FileMaker is a commercial database that provides customization options and integrations of other software tools to help users manage data and automate business processes. Claris Filemaker data model is a relational database that is a customizable framework for organizing and managing data and is a popular framework for businesses and organizations. As for the hosting model, FileMaker comes in different models, such as the FileMaker Cloud, FileMaker Server, Third party hosting, FileMaker Pro, FileMaker Go, and FileMaker WebDirect. In order for Java or Python to access Claris FileMaker, the provided JDBC driver as well as the ODBC driver must be utilized.
