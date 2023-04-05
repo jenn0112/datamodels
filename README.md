@@ -4,6 +4,5 @@
 * hadoopHDFS: hadoopHDFS.md
 * informix: informix.md
 * mariaDB: mariaDB.md
-* oracle: oracle.md
 * orientDB: orientDB.md
 
