@@ -1,3 +1,3 @@
-* name: Cloudera
-* website: (https://www.cloudera.com/)
-* Cloudera is an open source tool 
+* name: Hadoop
+* website: (https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
+* Hadoop is an open source tool 
