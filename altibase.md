@@ -1,4 +1,3 @@
 * name: Altibase
-* website: 
-* 
-
+* website: (https://altibase.com/en/index.php?ckattempt=1) 
+* Altibase is an open source data base and is a RDBMS data model, meaning that it is a relational database management system. As for the hosting model, it has various hosting models including an physical server hosting model, cloud hosting model, as well a hybrid model, in which it can be utilized both physically as well as on the cloud model. In order for Java or Python to access Altibase, a Java Database Connectivity driver must be connected in order for the Altibase website to be compatible with the Java framework and tools, and a Python API must be connected to do the same.
