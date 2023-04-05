@@ -1,2 +1,2 @@
-# datamodels
-Homework 0: DataModel Ontology
+# datamodels Homework 0: DataModel Ontology
+*
