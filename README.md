@@ -5,4 +5,5 @@
 * informix: informix.md
 * mariaDB: mariaDB.md
 * orientDB: orientDB.md
-
+* WindowsRegistry: windowsregistry.md
+* XML: xml.md
